@@ -13,11 +13,17 @@ assignees: ''
 3. Scroll down to '....'
 4. See an error
 
+**Package Version**
+A version of the package in which you are facing the issue.
+
 **Expected Result**
 A clear and concise description of what you expected to happen.
 
 **Actual Result**
-A clear and concise description of what you expected to happen.
+A clear and concise description of current behavior.
+
+**ScreenShots**
+Add Screenshots if any.
 
 **Platform (please complete the following information):**
  - Device: [e.g. iPhone6]
